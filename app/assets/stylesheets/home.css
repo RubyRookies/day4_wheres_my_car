@@ -15,7 +15,8 @@ p {
 
 #map_canvas {
         margin: 0.2em 0 0.2em 0;
-        width: 500px;
-        height: 400px;
+        width: 25em;
+        height: 25em;
         background-color: #ccc;
       }
+
