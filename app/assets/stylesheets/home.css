@@ -1,0 +1,21 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+  font-family: Verdana, sans-serif;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+}
+
+#map_canvas {
+        margin: 0.2em 0 0.2em 0;
+        width: 500px;
+        height: 400px;
+        background-color: #ccc;
+      }
